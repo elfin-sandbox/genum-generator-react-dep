@@ -4,7 +4,7 @@
         {
             "id": "1",
             "header": {
-                "icon": "./src/images/el_circle.png",
+                "icon": "./public/images/el_circle.png",
                 "title": "Effortless Number Generation"
             },
             "description": "Generate random numbers instantly, from single digits to custom ranges, with just a few clicks."
@@ -13,7 +13,7 @@
         {
             "id": "2",
             "header": {
-                "icon": "./src/images/el_star.png",
+                "icon": "./public/images/el_star.png",
                 "title": "Instant Number Insights"
             },
             "description": "Get quick, interesting trivia about your generated number with our integrated API."
@@ -22,7 +22,7 @@
         {
             "id": "3",
             "header": {
-                "icon": "./src/images/el_pent.png",
+                "icon": "./public/images/el_pent.png",
                 "title": "Quick & Clear Results"
             },
             "description": "See your results immediately, with a smooth and efficient display, ready for any use."

@@ -11,8 +11,8 @@ const App = () => {
             <Routes>
                 <Route path="/" element={<MainLayout />}>
                     <Route index element={<LandingPage />} />
-                    <Route path="random-number-generator" element={<RandomNumberGenerator />} />
-                    <Route path="random-word-generator" element={<RandomWordGenerator />} />
+                    <Route path="/random-number-generator" element={<RandomNumberGenerator />} />
+                    <Route path="/random-word-generator" element={<RandomWordGenerator />} />
                 </Route>
             </Routes>
         </Router>

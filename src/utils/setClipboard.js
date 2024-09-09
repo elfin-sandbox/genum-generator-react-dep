@@ -1,6 +1,6 @@
 export const clipboardIcon = {
-    copy: "/src/images/clipboard.svg", // Note the relative path
-    check: "/src/images/check.svg", // Note the relative path
+    copy: "./public/images/clipboard.svg", // Note the relative path
+    check: "./public/images/check.svg", // Note the relative path
 };
 
 export function setClipboard() {

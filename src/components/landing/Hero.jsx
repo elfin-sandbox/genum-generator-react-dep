@@ -12,7 +12,7 @@ const Hero = () => {
                 <p class="hero__note">This website is a project developed by @elfinix for his web development journey.</p>
             </div>
             <div class="hero__right">
-                <img src="./src/images/hero-img.png" alt="" class="hero__img" />
+                <img src="./public/images/hero-img.png" alt="" class="hero__img" />
             </div>
         </section>
     );

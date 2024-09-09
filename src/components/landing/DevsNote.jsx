@@ -2,14 +2,14 @@ const DevsNote = () => {
     return (
         <section class="dev__container container">
             <div class="graphic__container">
-                <img src="./src/images/el_circle.png" alt="" class="el__circle" />
-                <img src="./src/images/el_square.png" alt="" class="el__square" />
+                <img src="./public/images/el_circle.png" alt="" class="el__circle" />
+                <img src="./public/images/el_square.png" alt="" class="el__square" />
             </div>
             <div class="dev-main__container">
                 <h2 class="dev__h2">Dev’s Note</h2>
                 <div class="dev-quote__container">
                     <div class="dev-image__holder">
-                        <img src="./src/images/dev.jpg" alt="" class="dev__image" />
+                        <img src="./public/images/dev.jpg" alt="" class="dev__image" />
                     </div>
                     <p class="dev__quote">
                         This generator was crafted with performance and simplicity in mind. The design focuses on user
@@ -23,8 +23,8 @@ const DevsNote = () => {
             </div>
 
             <div class="graphic__container">
-                <img src="./src/images/el_circle.png" alt="" class="el__circle el--reversed" />
-                <img src="./src/images/el_square.png" alt="" class="el__square el--reversed" />
+                <img src="./public/images/el_circle.png" alt="" class="el__circle el--reversed" />
+                <img src="./public/images/el_square.png" alt="" class="el__square el--reversed" />
             </div>
         </section>
     );
